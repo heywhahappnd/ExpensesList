@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vladkaryakin/ExpensesList/static/css/main.c4375b81.chunk.css",
+    "main.js": "/vladkaryakin/ExpensesList/static/js/main.63fbe243.chunk.js",
+    "main.js.map": "/vladkaryakin/ExpensesList/static/js/main.63fbe243.chunk.js.map",
+    "runtime-main.js": "/vladkaryakin/ExpensesList/static/js/runtime-main.7930984e.js",
+    "runtime-main.js.map": "/vladkaryakin/ExpensesList/static/js/runtime-main.7930984e.js.map",
+    "static/js/2.39995d3f.chunk.js": "/vladkaryakin/ExpensesList/static/js/2.39995d3f.chunk.js",
+    "static/js/2.39995d3f.chunk.js.map": "/vladkaryakin/ExpensesList/static/js/2.39995d3f.chunk.js.map",
+    "index.html": "/vladkaryakin/ExpensesList/index.html",
+    "static/css/main.c4375b81.chunk.css.map": "/vladkaryakin/ExpensesList/static/css/main.c4375b81.chunk.css.map",
+    "static/js/2.39995d3f.chunk.js.LICENSE.txt": "/vladkaryakin/ExpensesList/static/js/2.39995d3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7930984e.js",
+    "static/js/2.39995d3f.chunk.js",
+    "static/css/main.c4375b81.chunk.css",
+    "static/js/main.63fbe243.chunk.js"
+  ]
+}
