@@ -1,6 +1,6 @@
 import Expenses from './components/Expenses/Expenses';
 import NewExpense from './components/NewExpense/NewExpense';
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 import './App.css';
 
 const INITIAL_EXPENSES = [
@@ -28,6 +28,10 @@ const INITIAL_EXPENSES = [
 function App() {
   const [expenses, setExpenses] = useState(INITIAL_EXPENSES);
   
+  useEffect(() => {
+    document.title = 'ExpensesList';
+    return {};
+  }, [])
   const handleNewExpense = (expense) => {
     setExpenses((prevExpenses) => {
       return [expense, ...prevExpenses];
